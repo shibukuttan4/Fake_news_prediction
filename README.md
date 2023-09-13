@@ -5,8 +5,6 @@ Great! You can use the following README.md content for your GitHub repository:
 ```markdown
 # Fake News Prediction
 
-![Project Image](https://github.com/shibukuttan4/Fake_news_prediction/blob/main/fake_news_image.jpg)
-
 > A machine learning model to predict the authenticity of news articles.
 
 ---
