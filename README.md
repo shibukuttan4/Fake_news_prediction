@@ -2,6 +2,10 @@
 Utilized Logistic Regression to develop a robust Fake News Predictor, empowering fact-checking and enhancing information integrity.
 Great! You can use the following README.md content for your GitHub repository:
 
+https://www.kaggle.com/c/fake-news/data?select=train.csv
+
+This is the link for the dataset used in this project.
+
 ```markdown
 # Fake News Prediction
 
